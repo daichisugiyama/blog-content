@@ -1,6 +1,7 @@
 +++
 title = "Bootstrapの使い方"
 tags = ["Bootstrap", "プログラミング"]
+categories = [ "Bootstrap", "プログラミング" ]
 +++
 
 # はじめに
