@@ -1,6 +1,6 @@
 +++
 title = "Bootstrapのグリッドシステムの使い方"
-tags = "Bootstrap", "プログラミング"
+tags = ["Bootstrap", "プログラミング"]
 +++
 
 # はじめに
