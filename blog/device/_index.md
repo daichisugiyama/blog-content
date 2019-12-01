@@ -1,5 +1,5 @@
 ---
-title: "端末"
+title: "デバイス"
 date: 2019-11-30
 draft: true
 ---
