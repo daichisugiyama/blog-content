@@ -1,7 +1,7 @@
 ---
 title: "レスポンシブ対応のためのBootstrap"
-date: 2019-12-1
-draft: false
+date: 2019-12-01
+draft: true
 tags: ["レスポンシブ対応", Bootstrap"]
 ---
 
