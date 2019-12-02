@@ -1,7 +1,8 @@
 ---
-title: "Bootstrapによるレスポンシブ対応の基礎"
-date: 2019-12-1
-draft: true
+title: "レスポンシブ対応のためのBootstrap"
+date: 2019-12-01
+draft: false
+eyecache: "responsive-bootstrap.jpg"
 tags: ["レスポンシブ対応", Bootstrap"]
 ---
 
