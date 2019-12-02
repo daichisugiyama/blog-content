@@ -2,7 +2,7 @@
 title: "レスポンシブ対応のためのBootstrap"
 date: 2019-12-01
 draft: false
-eyecatch: "images/responsive-bootstrap.jpg"
+# eyecatch: "images/responsive-bootstrap.jpg"
 tags: ["レスポンシブ対応", "Bootstrap"]
 ---
 
