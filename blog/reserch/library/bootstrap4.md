@@ -1,7 +1,7 @@
 ---
 title: "Bootstrap調査しました"
 date: 2019-12-01
-draft: false
+draft: true
 tags: ["調査しました", "ライブラリ", "Bootstrap"]
 ---
 
