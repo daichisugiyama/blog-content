@@ -1,7 +1,7 @@
 ---
-title: "Bootstrap 4入門"
+title: "Bootstrap 入門"
 date: 2019-12-01
-draft: false
+draft: true
 # eyecatch: "images/responsive-bootstrap.jpg"
 tags: ["Bootstrap"]
 ---
