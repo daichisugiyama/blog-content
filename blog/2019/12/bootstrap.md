@@ -1,12 +1,21 @@
 ---
-title: "Bootstrap調査しました"
+title: "Bootstrapに関すること"
 date: 2019-12-01
 draft: true
-tags: ["調査しました", "ライブラリ", "Bootstrap"]
+tags: ["調査", "ライブラリ", "Bootstrap"]
 ---
 
 
 # Boostrapの概要
+
+　Bootstrapは2019年12月4日時点においてGithubリポジトリのスター数総合6位のフロントエンドのコンポーネントライブラリです。著作権者はTwitter社です。任天堂、スポーティファイのウェブサイトに使われています。あなたは提供機能であるレスポンシブなグリッドシステムや豊富なコンポーネントにより素早く形にできます。
+
+# Bootstrapの歴史
+Bootstrapは
+
+# Bootstrapの提供機能
+
+
 Bootstrapについて
 https://getbootstrap.jp/
 
