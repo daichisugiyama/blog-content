@@ -1,5 +1,5 @@
 ---
 title: "エモい"
-date: 1000-01-03
+date: 0000-02-00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
 title: "作りました"
-date: 1000-01-01
+date: 0000-06-00
 draft: false
 ---
