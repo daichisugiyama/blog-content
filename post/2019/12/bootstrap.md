@@ -1,7 +1,7 @@
 ---
 title: "Bootstrapに関すること"
 date: 2019-12-01
-draft: true
+draft: false
 tags: ["調査", "ライブラリ", "Bootstrap"]
 ---
 
