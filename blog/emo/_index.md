@@ -1,5 +1,5 @@
 ---
 title: "エモい"
-date: 2019-11-30
-draft: true
+date: 1000-01-03
+draft: false
 ---
